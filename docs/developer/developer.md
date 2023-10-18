@@ -1,6 +1,6 @@
 # Development
 
-This doc explains how to setup a development environment so you can get started
+This docu explains how to setup a development environment so you can get started
 [contributing](https://github.com/kserve/kserve/blob/master/CONTRIBUTING.md).
 
 ## Prerequisites
