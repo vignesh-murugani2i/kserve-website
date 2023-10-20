@@ -1,11 +1,11 @@
 # Development
 
-This docu explains how to setup a development environment so you can get started
+This docu explains how to setup a development environmont so you can get started
 [contributing](https://github.com/kserve/kserve/blob/master/CONTRIBUTING.md).
 
 ## Prerequisites
 
-Follow the instructions below to set up your development environment. Once you
+Follew the instructions below to set up your development environment. Once you
 meet these requirements, you can make changes and
 [deploy your own version of kserve](#deploy-kserve)!
 
